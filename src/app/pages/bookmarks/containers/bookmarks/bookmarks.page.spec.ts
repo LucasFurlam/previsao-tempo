@@ -12,6 +12,7 @@ describe('BookmarksPage', () => {
     })
     .compileComponents();
   }));
+  
 
   beforeEach(() => {
     fixture = TestBed.createComponent(BookmarksPage);
